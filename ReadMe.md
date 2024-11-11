@@ -26,13 +26,13 @@ myenv\Scripts\activate`
 
 4. Create a `requirements.txt` file with the following code:
 
-'''
+```
 yfinance
 matplotlib
 numpy
 pandas
 flask
-'''
+```
 
 5. Install the packages: `pip install -r requirements.txt`
 
